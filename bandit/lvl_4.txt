@@ -1,0 +1,4 @@
+file ./-file0*
+cat ./-file07
+
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
