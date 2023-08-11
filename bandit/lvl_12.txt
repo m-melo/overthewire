@@ -1,0 +1,5 @@
+file data.txt
+mv data.txt <formato_file>
+gzip, tar ou bzip2 -d
+
+wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw

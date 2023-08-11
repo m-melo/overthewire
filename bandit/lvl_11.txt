@@ -1,0 +1,3 @@
+tr 'A-Z,a-z' 'N-ZA-Mn-za-m' < data.txt
+
+JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
